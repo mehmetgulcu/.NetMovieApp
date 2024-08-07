@@ -1,9 +1,8 @@
-using Microsoft.AspNetCore.Identity;
-using MovieApp.Core.Entities;
+﻿using Microsoft.AspNetCore.Identity;
 
 namespace MovieApp.Entity.Entities
 {
-    public class AppRole : IdentityUser<int>
+    public class AppRole : IdentityRole<int>
     {
     }
 }
