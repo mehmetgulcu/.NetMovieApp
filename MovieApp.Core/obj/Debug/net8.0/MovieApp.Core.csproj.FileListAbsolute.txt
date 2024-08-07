@@ -9,3 +9,4 @@ D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Co
 D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Core\obj\Debug\net8.0\refint\MovieApp.Core.dll
 D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Core\obj\Debug\net8.0\MovieApp.Core.pdb
 D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Core\obj\Debug\net8.0\ref\MovieApp.Core.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Core\obj\Debug\net8.0\MovieApp.Core.sourcelink.json

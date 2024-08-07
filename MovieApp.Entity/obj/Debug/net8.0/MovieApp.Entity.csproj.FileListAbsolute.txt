@@ -13,3 +13,4 @@ D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.En
 D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Entity\obj\Debug\net8.0\refint\MovieApp.Entity.dll
 D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Entity\obj\Debug\net8.0\MovieApp.Entity.pdb
 D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Entity\obj\Debug\net8.0\ref\MovieApp.Entity.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\ASP.NETCore\MovieApp\MovieApp.Entity\obj\Debug\net8.0\MovieApp.Entity.sourcelink.json
